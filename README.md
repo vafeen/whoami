@@ -58,6 +58,7 @@ Room, Koin (предпочтение) && Hilt, Retrofit && HTTP, Jetpack Compose
 - Android: [University schedule](https://github.com/vafeen/UniversitySchedule) - Приложение для отслеживания расписание в университете с показом пар на каждый день по Числителю/Знаменателю. Приложение находится в активном использовании внутри группы.
 - Android: [learn2invest](https://github.com/vafeen/learn2Invest) - Виртуальный клиент инвестиций
 - Android: [Whisper of Tasks](https://github.com/vafeen/Whisper-of-Tasks) - TODO-лист && планировщик задач
+- Android: [Direct-Refresher](https://github.com/vafeen/Direct-Refresher) - Библиотека для обновления Andorid-приложений без маркетов
 
 # О себе
 
